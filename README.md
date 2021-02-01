@@ -1,5 +1,5 @@
 # rapidxml
-RapidXML Library Mirror
+RapidXML Library Mirror/Copy
 
 The origin of this library can be found here: http://rapidxml.sourceforge.net
 
